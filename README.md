@@ -1,14 +1,17 @@
 # wordProcessor
 A simple redstone word processor.
 
-## features
+## Features
 - super fast, modular and compact
 - a-z + space + delete + clear keys
 - 12x6 letter display with 3x5 font
 - 5 bit encoded keyboard input
 - 420 bit rom
 
-## images
+## Notes
+- built in 1.19.3, works in 1.21.3
+
+## Images
 (using complementary unbound shaders)
 ![2024-11-24_11 43 36](https://github.com/user-attachments/assets/9fc6fefe-4c18-4a31-bac1-7510cb6d6e2a)
 ![2024-11-24_11 44 10](https://github.com/user-attachments/assets/c7e1cd16-b50e-4607-a052-73666c34adfc)
