@@ -10,6 +10,7 @@ A simple redstone word processor.
 
 ## Notes
 - built in 1.19.3, works in 1.21.3
+- spaces look like underscores because the bottom pixels of the letter need to be lit for the logic to work
 
 ## Images
 (using complementary unbound shaders)
