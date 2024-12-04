@@ -2,7 +2,7 @@
 A simple redstone word processor.
 
 ## Features
-- super fast, modular and compact
+- fast, modular and compact
 - a-z + space + delete + clear keys
 - 12x6 letter display with 3x5 font
 - 5 bit encoded keyboard input
