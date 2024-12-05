@@ -6,7 +6,7 @@ A simple redstone word processor.
 - a-z + space + delete + clear keys
 - 12x6 letter display with 3x5 font
 - 5 bit encoded keyboard input
-- 420 bit rom
+- 105 nibble rom (420 bits)
 
 ## Notes
 - built in 1.19.3, works in 1.21.3
